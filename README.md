@@ -1,5 +1,5 @@
 # FreeCodeCamp Certification in Scientific Computing with Python
-
+The following projects are hosted on replit. Replit is a coding platform that lets you write code and host apps. It also has many educational features built-in, making it great for teachers and learners too.
 <h2>Projects:</h2>
 <section>
 <ol>
